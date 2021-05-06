@@ -1,0 +1,11 @@
+{
+    "Resources": {
+        "SecurityGroup": {
+            "Type": "AWS::EC2::SecurityGroup",
+            "Properties": {
+                "GroupDescription": "VPC Testing",
+                "VpcId": "<vpc-af2856d5>"
+            }
+        }
+    }
+}
