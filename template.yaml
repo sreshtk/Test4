@@ -5,7 +5,6 @@ Description: ...
 Globals:
   Function:
     Runtime: python3.7
-    Handler: function.lambda_handler
     Timeout: 900
 
 
